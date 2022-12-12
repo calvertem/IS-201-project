@@ -1,0 +1,34 @@
+header{
+   background-color: rgb(55, 52, 50);
+}
+body{
+   background-color: rgb(228, 212, 191);
+}
+.toptext{
+   color: black;
+}
+.emdawg{
+   color: rgb(55, 52, 50);
+}
+.emmacalvert{
+   font-weight: bolder !important; 
+   color: rgb(229, 212, 191);
+}
+
+.card{
+   background-color: rgb(55, 52, 50);
+   color: rgb(229, 212, 191);
+}
+.davedawg{
+   color: rgb(229, 212, 191);
+}
+.bumper{
+   padding-left: 5;
+   padding-right: 5;
+   padding-top: 5;
+   padding-bottom: 5;
+}
+.crazy{
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-weight: bolder;
+}
